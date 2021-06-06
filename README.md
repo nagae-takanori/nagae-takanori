@@ -1,1 +1,3 @@
-東京工芸大学芸術学部インタラクティブメディア学科 永江研究室のGithubです。
+- [大学公式のYoutubeチャンネル](https://www.youtube.com/channel/UC4BAcQ4p-U_Fi1aA_I3wc2g)
+- [個人のYoutubeチャンネル](https://www.youtube.com/channel/UCILd88Su8uj8PDWp2kHC_1w)
+- [はてなブログ](https://nagae-takanori.hatenablog.com/)
