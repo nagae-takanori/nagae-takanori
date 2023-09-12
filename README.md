@@ -1,5 +1,6 @@
 - [大学公式のYoutubeチャンネル](https://www.youtube.com/channel/UC4BAcQ4p-U_Fi1aA_I3wc2g)
 - [個人のYoutubeチャンネル](https://www.youtube.com/channel/UCILd88Su8uj8PDWp2kHC_1w)
-- [はてなブログ](https://nagae-takanori.hatenablog.com/)
-- [Pinyin Tuner (平仄くん)](https://nagae-takanori.github.io/)
+- [Wiki](https://wiki.socialakiba.com/)
+- [ブログ](https://socialakiba.com/)
+- [Pinyin Tuner (平仄くん)](https://socialakiba.com/pinyin/tuner.html)
 - [google scholar](https://scholar.google.co.jp/citations?user=pWeTrb8AAAAJ&hl=en&citsig=AMD79orjfnVM3uqiy_1Vs52-adTR6pO_rA)
