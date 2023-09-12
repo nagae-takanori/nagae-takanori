@@ -1,4 +1,4 @@
--[researchmap](https://researchmap.jp/nagae_takanori/?lang=ja)
+- [researchmap](https://researchmap.jp/nagae_takanori/?lang=ja)
 - [google scholar](https://scholar.google.co.jp/citations?user=pWeTrb8AAAAJ&hl=en&citsig=AMD79orjfnVM3uqiy_1Vs52-adTR6pO_rA)
 - [大学公式のYoutubeチャンネル](https://www.youtube.com/channel/UC4BAcQ4p-U_Fi1aA_I3wc2g)
 - [個人のYoutubeチャンネル](https://www.youtube.com/channel/UCILd88Su8uj8PDWp2kHC_1w)
